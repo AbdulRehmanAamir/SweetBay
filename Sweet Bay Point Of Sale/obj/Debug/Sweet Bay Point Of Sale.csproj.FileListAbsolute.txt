@@ -1,0 +1,56 @@
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.CustomerF.CustomersRecordForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.CustomerF.NewCustomerForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.DashboardForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.loginform.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Properties.Resources.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.Products.DefineProductScreen.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.StockRecord.StockRecordForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe.config
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.dll
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csprojResolveAssemblyReference.cache
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.NewSalesOrderForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.SalesOrder.BillReceipt.resources
+C:\Users\Noor\Desktop\POS\POS\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe.config
+C:\Users\Noor\Desktop\POS\POS\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Noor\Desktop\POS\POS\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe.config
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csprojResolveAssemblyReference.cache
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.CustomerF.NewCustomerForm.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.DashboardForm.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.loginform.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Properties.Resources.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.SalesOrder.BillReceipt.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.NewSalesOrderForm.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.Products.DefineProductScreen.resources
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.dll
+C:\Users\Abdur Rehman\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.Fonts.dll
+D:\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe.config
+D:\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.exe
+D:\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe.config
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.dll
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.CustomerF.NewCustomerForm.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.DashboardForm.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.loginform.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Properties.Resources.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.SalesOrder.BillReceipt.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.NewSalesOrderForm.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet_Bay_Point_Of_Sale.Screens.Products.DefineProductScreen.resources
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.exe
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.pdb
+C:\Users\Dell\Desktop\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Debug\Sweet Bay Point Of Sale.csprojResolveAssemblyReference.cache

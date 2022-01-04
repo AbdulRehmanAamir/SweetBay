@@ -1,0 +1,13 @@
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Release\Sweet Bay Point Of Sale.exe.config
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Release\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Release\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Release\MetroFramework.dll
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet_Bay_Point_Of_Sale.Screens.DashboardForm.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet_Bay_Point_Of_Sale.loginform.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet_Bay_Point_Of_Sale.Properties.Resources.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet Bay Point Of Sale.csproj.GenerateResource.Cache
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet Bay Point Of Sale.exe
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet Bay Point Of Sale.pdb
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet_Bay_Point_Of_Sale.Screens.Products.DefineProductScreen.resources
+C:\Users\Abdur Rehman\Documents\Visual Studio 2013\Projects\Sweet Bay Point Of Sale\Sweet Bay Point Of Sale\obj\Release\Sweet Bay Point Of Sale.csprojResolveAssemblyReference.cache
